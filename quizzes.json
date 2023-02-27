@@ -1,0 +1,3 @@
+{"name":"what is 4+4?","questions":[],"published":false,"locked":false,"start_time":null,"end_time":null}
+{"name":"ruby","questions":[{"question":"what is 88+9?","answer":"96"}],"published":false,"locked":false,"start_time":null,"end_time":null}
+{"name":"math","questions":[{"question":"what is 4+5?","answer":"9"},{"question":"what is 100+9?","answer":"109"},{"question":"what is 2*7?","answer":"14"}],"published":false,"locked":false,"start_time":null,"end_time":null}
